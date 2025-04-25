@@ -1,7 +1,7 @@
 
 # React Authentication - 02AUTH(Google) - MySQL
 
-A basic login page made with react which supports Authentication
+Ini Hanya Mengambil Data dari GoogleSpeadsheet tanpa perantara seperti mysql
 
 
 ## Features
